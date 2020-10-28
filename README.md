@@ -1,4 +1,4 @@
-# avces_tesnsorflow
+# avces_tensorflow
 Deep Predictive models for collision risk assessment in autonomous driving
 [https://arxiv.org/pdf/1711.10453.pdf](https://arxiv.org/pdf/1711.10453.pdf)
 
